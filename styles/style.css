@@ -1,0 +1,20 @@
+h1 + p a {
+  font-weight: bold;
+}
+
+h1 + p a:link {
+  color: blue;
+}
+
+h1 + p a:visited {
+  color: black;
+}
+
+h1 + p a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+.site-intro em {
+  color: brown;
+}
