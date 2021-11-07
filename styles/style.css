@@ -18,3 +18,8 @@ h1 + p a:hover {
 .site-intro em {
   color: brown;
 }
+
+article a:hover {
+  color: red;
+  text-decoration: none;
+}
