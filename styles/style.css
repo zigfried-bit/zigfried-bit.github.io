@@ -19,6 +19,31 @@ h1 + p a:hover {
   color: brown;
 }
 
+/* ----------nav style---------- */
+nav ul {
+  display: flex;
+  padding: 10px;
+}
+
+nav li {
+  display: inline-block;
+  padding: 10px;
+}
+
+nav a {
+  background-color: antiquewhite;
+  font-size: 25px;
+  text-decoration: none;
+  color: darkblue;
+  padding: 5px 10px 5px 10px;
+}
+
+nav a:hover {
+  background-color: darkturquoise;
+  color: aliceblue;
+}
+/* ----------nav style---------- */
+
 article a:hover {
   color: red;
   text-decoration: none;
