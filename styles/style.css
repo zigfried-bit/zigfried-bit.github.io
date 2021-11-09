@@ -56,4 +56,5 @@ article a:hover {
   height: 16px;
   background-image: url("../images/icons/link-ico.svg");
   background-size: 16px;
+  background-repeat: no-repeat;
 }
